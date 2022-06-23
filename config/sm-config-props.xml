@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!-- openalex reader config
+	-->
+
+<properties>
+
+	
+	<parameter name="DATA_PATH" value="data/" />
+
+</properties>
+
